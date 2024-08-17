@@ -56,7 +56,7 @@ rainy,75.0,80.0,false,yes
 ### EMPLOYEE TABLE CREATION:
 ![image](https://github.com/user-attachments/assets/30d611bd-4d2b-4d4b-b875-9fe6d679528f)
 ### WEATHER TABLE CREATION:
-![image](https://github.com/user-attachments/assets/14c34161-543d-42c5-b6a4-d398f1218753)
+![weather](https://github.com/user-attachments/assets/3c26df97-8d1c-435f-966b-aff673210641)
 
 
 
